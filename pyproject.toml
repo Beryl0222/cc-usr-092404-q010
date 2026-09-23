@@ -1,0 +1,8 @@
+[project]
+name = "childcare-subsidy-ledger"
+version = "0.1.0"
+description = "普惠托育补助清算领域资料"
+requires-python = ">=3.11"
+
+[tool.unittest]
+start-directory = "tests"
